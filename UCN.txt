@@ -1,0 +1,15 @@
+week_03_practical_assignment Use Case Narrative
+--------------------------------------------------
+Preconditions: none 
+Post conditions: shipping cost is displayed
+--------------------------------------------------
+Basic flow
+Print program title 
+Computer asks for region code
+User enters region code 
+Commputer asks for package weight
+User enters package weight
+Computer asks for customer type 
+User enters customer type 
+Computer displays outputs
+Print program complete
